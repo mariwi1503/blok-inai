@@ -50,7 +50,7 @@ export function Footer() {
             </p>
             <div className="mt-4 flex space-x-2">
               <span className="inline-flex items-center text-[11px] font-semibold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-full">
-                <FaWhatsapp className="mr-1 text-emerald-600" /> Grup WhatsApp Warga Aktif
+                <FaWhatsapp className="mr-1 text-emerald-600" /> Grup WhatsApp Warga
               </span>
             </div>
           </div>
